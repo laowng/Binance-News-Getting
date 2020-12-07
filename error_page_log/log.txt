@@ -1,0 +1,16 @@
+10-26 05:14:15:	0: 
+	1: <html>
+ <body>
+  <p>
+   upstream connect error or disconnect/reset before headers. reset reason: connection failure
+  </p>
+ </body>
+</html>
+10-28 19:18:50:	0: 
+	1: <html>
+ <body>
+  <p>
+   upstream connect error or disconnect/reset before headers. reset reason: connection termination
+  </p>
+ </body>
+</html>

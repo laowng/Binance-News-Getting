@@ -1,0 +1,10 @@
+build
+.idea
+dist
+PyWeChatSpy.egg-info
+*.log
+*.xor
+*.toml
+qrcode.png
+venv
+*.jpg

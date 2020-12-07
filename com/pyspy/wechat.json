@@ -1,0 +1,38 @@
+{
+    "users": {
+        "王文": {
+            "wxid": "wxid_0ybr4vwa1mat22"
+        },
+        "刀锋大号": {
+            "wxid": "wxid_v3ax65razycb22"
+        }
+    },
+    "group": {
+        "wxid_v3ax65razycb22": {
+            "wxid": "wxid_v3ax65razycb22",
+            "id": "刀哥"
+        },
+        "23495046242@chatroom": {
+            "id": "338寝室",
+            "黑名单": []
+        },
+        "24535753538@chatroom": {
+            "id": "3312常驻",
+            "黑名单": []
+        },
+        "wxid_0ybr4vwa1mat22": {
+            "id": "wangwen",
+            "黑名单": []
+        },
+        "wxid_mqc6ub875tqf22": {
+            "id": "miaomiao",
+            "黑名单": []
+        }
+    },
+    "nickname": "智能机器人小白",
+    "pid": 5560,
+    "host_wxid": "wxid_gnxd3879cdgs22",
+    "key": [
+        "上市"
+    ]
+}
